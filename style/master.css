@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&display=swap');
+
+.warning    {
+    background-color: #485563;
+    width: 100%;
+    height: 55px;
+    border-radius: 5px;
+}
+
+#war{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body{
+    background-color: #181818;
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url(/fonts/HelveticaNeueCyr-Bold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Monotype";
+    src: url(/fonts/monotypecorsiva.ttf);
+    font-style: italic;
+    font-weight: normal;
+}
+/* font-family: 'Cabin', sans-serif; */
+
+
+
+hr{
+    background: linear-gradient(90deg, #29323C 0%, #485563 100%);
+    height: 4px;
+    border: 0;
+    border-radius: 20px;
+}
+
+.logo{
+    padding-top: 31px;
+}
+
+#h1-max{
+    font-family: 'Helvetica';
+    letter-spacing: 3.5%;
+    font-size: 36px;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+#vector-png{
+    position: absolute;
+    z-index: -2;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+#btn-1{
+    margin-top: -15px;
+    display: block;
+    font-family: "Monotype";
+    font-weight: 400;
+    border-radius: 20px;
+    border: 0;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background: linear-gradient(90deg, #29323C 0%, #485563 100%)
+}
+
+#btn-2{
+    margin-top: 15px;
+    display: block;
+    font-family: "Monotype";
+    font-weight: 400;
+    border-radius: 20px;
+    border: 0;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 28px;
+    padding-right: 28px;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg, #29323C 0%, #485563 100%)
+}
+
+.video-design{
+    padding-top: 13px;
+}
+
+#font-all-1{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: -8px;
+    padding-top: 10px;
+}
+
+#font-all{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.item{
+    padding-top: 20px;
+}
+
+#card-1{
+    width: 143px;
+    border: 0;
+    border-radius: 5px;
+    height: 197px;
+    background-image: url(/images/card-1.png);
+    margin-right: 10px;
+}
+
+#card-2{
+    width: 143px;
+    border: 0;
+    border-radius: 5px;
+    height: 197px;
+    background-image: url(/images/craft-pocket.png);
+}
+
+#card-3{
+    width: 143px;
+    border: 0;
+    border-radius: 5px;
+    height: 197px;
+    margin-right: 10px;
+    background-image: url(/images/business-card.png);
+}
+
+#card-4{
+    width: 143px;
+    border: 0;
+    border-radius: 5px;
+    height: 197px;
+    background-image: url(/images/cup.png);
+}
+
+.telegram{
+    text-align: center;
+}
+
+.call-icon{
+    font-size: 18px;
+    color: #475461;
+    font-weight: 800;
+    font-family: 'Helvetica';
+}
+
+#video-id-2{
+    border-radius: 10px;
+}
+
+#btn-div{
+    text-align: center;
+    margin-top: -380%;
+}
+
+.btn-click{
+    font-family: 'Monotype';
+    border: 0;
+    border-radius: 20px;
+    padding: 8px 40px;
+    font-size: 18px;
+    font-weight: 800;
+    
+}
+
+#card-btn{
+    width: 310px;
+    
+    border-radius: 10px;
+    margin-top: 10px;
+}
